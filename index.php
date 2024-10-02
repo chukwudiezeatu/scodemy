@@ -16,7 +16,6 @@
 
 <body>
 
-    <!-- navbar section   -->
 
     <header class="navbar-section">
         <nav class="navbar navbar-expand-lg">
@@ -52,7 +51,6 @@
         </nav>
     </header>
 
-    <!-- hero section  -->
 
     <section id="home" class="hero-section">
         <div class="container">
@@ -71,9 +69,6 @@
         </div>
     </section>
 
-    <!-- services section  -->
-
-    <!-- about section  -->
 
     <section class="about-section" id="about">
         <div class="container">
@@ -85,7 +80,7 @@
                     <h3>who we are</h3>
                     <h1>Coriftech solutions is a client based service company that focuses on developing clients vision into reality.</h1>
 
-                    <p>Coriftech Solutions Limited is a company that specializes in I.T training and the development of customized Software, web and enterprise solutions.</p>
+                    <p>scodemy is a company that specializes in I.T training and the development of customized Software, web and enterprise solutions.</p>
                     <button>learn more</button>
                 </div>
             </div>
