@@ -1,1 +1,1 @@
-Scodemy is a learning platform for kids
+Scodemy is a webdevelopment  learning platform for kids
